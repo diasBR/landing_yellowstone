@@ -111,6 +111,7 @@ h1 {
         display: block;
         border-bottom: 1px solid #ccc;
         padding: 20px 0 10px;
+        position: static;
     }
 
     .header-img {
@@ -118,7 +119,7 @@ h1 {
     }
 
     header img {
-        width: 60%;
+        width: 80%;
     }
 
     header a {
@@ -188,6 +189,7 @@ h1 {
 
     .footer {
         padding: 10px;
+        border: none;
         border-top: 1px solid #ccc;
         border-radius: 0px;
     }
