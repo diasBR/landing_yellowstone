@@ -109,8 +109,8 @@ h1 {
 
     header {
         display: block;
-        border-bottom: 1px solid #ccc;
-        padding: 20px 0 10px;
+        border-bottom: none;
+        padding: 20px 0 0px;
         position: static;
     }
 
